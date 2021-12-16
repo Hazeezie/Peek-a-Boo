@@ -1,2 +1,2 @@
 # Peek-a-Boo
-Terror and supernatural thriller Visual Novel
+Terror and supernatural thriller imersive game
